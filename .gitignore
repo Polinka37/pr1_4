@@ -1,0 +1,8 @@
+*.ifp
+*.ofp
+*.o
+*.a
+*.so
+*.log
+
+.build/
